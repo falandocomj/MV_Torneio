@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppTorneio", "WebAppTorneio\WebAppTorneio.csproj", "{9C13EF88-DBC3-45CA-87A9-D8D27DE4598E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C13EF88-DBC3-45CA-87A9-D8D27DE4598E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C13EF88-DBC3-45CA-87A9-D8D27DE4598E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C13EF88-DBC3-45CA-87A9-D8D27DE4598E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C13EF88-DBC3-45CA-87A9-D8D27DE4598E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4B8F35F-BF1A-4AF2-92D9-8204B4934E2C}
+	EndGlobalSection
+EndGlobal
